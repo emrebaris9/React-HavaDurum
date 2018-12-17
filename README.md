@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###### We fetch data https://openweathermap.org/
+###### For fetch data https://openweathermap.org/
   
   You must signup this website and get api key for fetch data 
 
